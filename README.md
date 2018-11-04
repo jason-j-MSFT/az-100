@@ -2,7 +2,7 @@
 
 ## Manage Azure subscriptions and resources (15-20%)
 
-1. **Manage Azure subscriptions**
+### 1. **Manage Azure subscriptions**
 
 * May include but not limited to: Assign administrator permissions; configure cost center quotas and tagging; configure subscription policies
 
