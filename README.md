@@ -6,6 +6,8 @@
 
 * May include but not limited to: Assign administrator permissions; configure cost center quotas and tagging; configure subscription policies
 
+  1. Azure account options: https://docs.microsoft.com/en-us/learn/modules/tour-azure-services-and-features/3-create-an-azure-account
+
 2. **Analyze resource utilization and consumption**
 
 * May include but not limited to: Configure diagnostic settings on resources; create baseline for resources; create and test alerts; analyze alerts across subscription; analyze metrics across subscription; create action groups; monitor for unused resources; monitor spend; report on spend; utilize Log Search query functions; view alerts in Log Analytics
