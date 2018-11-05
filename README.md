@@ -27,7 +27,7 @@
 
 * May include but not limited to: Allocate resource policies; configure resource locks; configure resource policies; implement and set tagging on resource groups; move resources across resource groups; remove resource groups
 
-## Implement and manage storage (20-25%)
+## **Implement and manage storage (20-25%)**
 
 Create and configure storage accounts
 
@@ -41,3 +41,32 @@ Configure Azure files
 
 Implement Azure backup
 * May include but not limited to: Configure and review backup reports; perform backup operation; create Recovery Services Vault; create and configure backup policy; perform a restore operation
+
+## Deploy and manage virtual machines (VMs) (20-25%)
+
+Create and configure a VM for Windows and Linux
+May include but not limited to: Configure high availability; configure monitoring, networking, storage, and virtual machine size; deploy and configure scale sets
+Automate deployment of VMs
+May include but not limited to: Modify Azure Resource Manager (ARM) template; configure location of new VMs; configure VHD template; deploy from template; save a deployment as an ARM template; deploy Windows and Linux VMs
+Manage Azure VM
+May include but not limited to: Add data discs; add network interfaces; automate configuration management by using PowerShell Desired State Configuration (DSC) and VM Agent by using custom script extensions; manage VM sizes; move VMs from one resource group to another; redeploy VMs
+Manage VM backups
+May include but not limited to: Configure VM backup; define backup policies; implement backup policies; perform VM restore
+
+## Configure and manage virtual networks (20-25%)
+Create connectivity between virtual networks
+May include but not limited to: Create and configure VNET peering; create and configure VNET to VNET; verify virtual network connectivity; create virtual network gateway
+Implement and manage virtual networking
+May include but not limited to: Configure private and public IP addresses, network routes, network interface, subnets, and virtual network
+Configure name resolution
+May include but not limited to: Configure Azure DNS; configure custom DNS settings; configure DNS zones
+Create and configure a Network Security Group (NSG)
+May include but not limited to: Create security rules; associate NSG to a subnet or network interface; identify required ports; evaluate effective security rules
+
+## Manage identities (15-20%)
+Manage Azure Active Directory (AD)
+May include but not limited to: Add custom domains; configure Azure AD Identity Protection, Azure AD Join, and Enterprise State Roaming; configure self-service password reset; implement conditional access policies; manage multiple directories; perform an access review
+Manage Azure AD objects (users, groups, and devices)
+May include but not limited to: Create users and groups; manage user and group properties; manage device settings; perform bulk user updates
+Implement and manage hybrid identities
+May include but not limited to: Install and configure Azure AD Connect; configure federation and single sign-on; manage Azure AD Connect; manage password sync and writeback
