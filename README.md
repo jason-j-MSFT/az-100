@@ -6,7 +6,7 @@
 
 * May include but not limited to: Assign administrator permissions; configure cost center quotas and tagging; configure subscription policies
 
-  1. **[Azure account options]** (https://docs.microsoft.com/en-us/learn/modules/tour-azure-services-and-features/3-create-an-azure-account)
+  1. **[Azure account options]**(https://docs.microsoft.com/en-us/learn/modules/tour-azure-services-and-features/3-create-an-azure-account)
   1. **Add or change Azure subscription administrators** https://docs.microsoft.com/en-us/azure/billing/billing-add-change-azure-subscription-administrator
   1. **What is Azure Cost Management?** https://docs.microsoft.com/en-us/azure/cost-management/overview-cost-mgt
   1. **How to optimize your cloud investment with Azure Cost Management** https://docs.microsoft.com/en-us/azure/cost-management/cost-mgt-best-practices
