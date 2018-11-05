@@ -16,20 +16,20 @@
   1. **Create and manage policies to enforce compliance** https://docs.microsoft.com/en-us/azure/governance/policy/tutorials/create-and-manage
   
 
-### 1. Analyze resource utilization and consumption
+### 2. Analyze resource utilization and consumption
 
 * May include but not limited to: Configure diagnostic settings on resources; create baseline for resources; create and test alerts; analyze alerts across subscription; analyze metrics across subscription; create action groups; monitor for unused resources; monitor spend; report on spend; utilize Log Search query functions; view alerts in Log Analytics
 
   1. **Collect and consume log data from your Azure resources** https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-overview-of-diagnostic-logs?toc=/azure/azure-monitor/toc.json
   1. **Overview of the Azure agents to monitor Azure Virtual Machines** https://docs.microsoft.com/en-us/azure/monitoring/monitoring-overview-azure-agents?toc=/azure/azure-monitor/toc.json
 
-### 1. Manage resource groups
+### 3. Manage resource groups
 
 * May include but not limited to: Allocate resource policies; configure resource locks; configure resource policies; implement and set tagging on resource groups; move resources across resource groups; remove resource groups
 
 ## **Implement and manage storage (20-25%)**
 
-### 1. Create and configure storage accounts
+### 4. Create and configure storage accounts
 
 * May include but not limited to: Configure network access to the storage account; create and configure storage account; generate shared access signature; install and use Azure Storage Explorer; manage access keys; monitor activity log by using Log Analytics; implement Azure storage replication
 
@@ -65,32 +65,32 @@
 
 ## Configure and manage virtual networks (20-25%)
 
-### Create connectivity between virtual networks
+### 12. Create connectivity between virtual networks
 
 * May include but not limited to: Create and configure VNET peering; create and configure VNET to VNET; verify virtual network connectivity; create virtual network gateway
 
-### 12. Implement and manage virtual networking
+### 13. Implement and manage virtual networking
 
 * May include but not limited to: Configure private and public IP addresses, network routes, network interface, subnets, and virtual network
 
-### 13. Configure name resolution
+### 14. Configure name resolution
 
 * May include but not limited to: Configure Azure DNS; configure custom DNS settings; configure DNS zones
 
-### 14. Create and configure a Network Security Group (NSG)
+### 15. Create and configure a Network Security Group (NSG)
 
 May include but not limited to: Create security rules; associate NSG to a subnet or network interface; identify required ports; evaluate effective security rules
 
 ## Manage identities (15-20%)
 
-### 15. Manage Azure Active Directory (AD)
+### 16. Manage Azure Active Directory (AD)
 
 * May include but not limited to: Add custom domains; configure Azure AD Identity Protection, Azure AD Join, and Enterprise State Roaming; configure self-service password reset; implement conditional access policies; manage multiple directories; perform an access review
 
-### 16. Manage Azure AD objects (users, groups, and devices)
+### 17. Manage Azure AD objects (users, groups, and devices)
 
 * May include but not limited to: Create users and groups; manage user and group properties; manage device settings; perform bulk user updates
 
-### 17. Implement and manage hybrid identities
+### 18. Implement and manage hybrid identities
 
 * May include but not limited to: Install and configure Azure AD Connect; configure federation and single sign-on; manage Azure AD Connect; manage password sync and writeback
