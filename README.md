@@ -7,7 +7,7 @@
 * May include but not limited to: Assign administrator permissions; configure cost center quotas and tagging; configure subscription policies
   
   1. **Azure account options** https://docs.microsoft.com/en-us/learn/modules/tour-azure-services-and-features/3-create-an-azure-account
-    1. **Add or change Azure subscription administrators** https://docs.microsoft.com/en-us/azure/billing/billing-add-change-azure-subscription-administrator
+  1. **Add or change Azure subscription administrators** https://docs.microsoft.com/en-us/azure/billing/billing-add-change-azure-subscription-administrator
   1. **What is Azure Cost Management?** https://docs.microsoft.com/en-us/azure/cost-management/overview-cost-mgt
   1. **How to optimize your cloud investment with Azure Cost Management** https://docs.microsoft.com/en-us/azure/cost-management/cost-mgt-best-practices
   1. **Use tags to organize your Azure resources** https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-using-tags?toc=/azure/billing/TOC.json
@@ -20,7 +20,7 @@
 
 * May include but not limited to: Configure diagnostic settings on resources; create baseline for resources; create and test alerts; analyze alerts across subscription; analyze metrics across subscription; create action groups; monitor for unused resources; monitor spend; report on spend; utilize Log Search query functions; view alerts in Log Analytics
 
-  1. 
+  2. **Collect and consume log data from your Azure resources** https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-overview-of-diagnostic-logs?toc=/azure/azure-monitor/toc.json
 
 3. **Manage resource groups**
 
