@@ -23,13 +23,13 @@
   1. **Collect and consume log data from your Azure resources** https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-overview-of-diagnostic-logs?toc=/azure/azure-monitor/toc.json
   1. **Overview of the Azure agents to monitor Azure Virtual Machines** https://docs.microsoft.com/en-us/azure/monitoring/monitoring-overview-azure-agents?toc=/azure/azure-monitor/toc.json
 
-### 3. Manage resource groups
+### 1. Manage resource groups
 
 * May include but not limited to: Allocate resource policies; configure resource locks; configure resource policies; implement and set tagging on resource groups; move resources across resource groups; remove resource groups
 
 ## **Implement and manage storage (20-25%)**
 
-### 4. Create and configure storage accounts
+### 1. Create and configure storage accounts
 
 * May include but not limited to: Configure network access to the storage account; create and configure storage account; generate shared access signature; install and use Azure Storage Explorer; manage access keys; monitor activity log by using Log Analytics; implement Azure storage replication
 
