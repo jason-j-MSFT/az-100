@@ -7,6 +7,8 @@
 * May include but not limited to: Assign administrator permissions; configure cost center quotas and tagging; configure subscription policies
 
   1. Azure account options: https://docs.microsoft.com/en-us/learn/modules/tour-azure-services-and-features/3-create-an-azure-account
+  1. What is Azure Policy? https://docs.microsoft.com/en-us/azure/governance/policy/overview
+    1. Create and manage policies to enforce compliance https://docs.microsoft.com/en-us/azure/governance/policy/tutorials/create-and-manage
 
 2. **Analyze resource utilization and consumption**
 
