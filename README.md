@@ -6,9 +6,15 @@
 
 * May include but not limited to: Assign administrator permissions; configure cost center quotas and tagging; configure subscription policies
 
-  1. Azure account options: https://docs.microsoft.com/en-us/learn/modules/tour-azure-services-and-features/3-create-an-azure-account
-  1. What is Azure Policy? https://docs.microsoft.com/en-us/azure/governance/policy/overview
-    1. Create and manage policies to enforce compliance https://docs.microsoft.com/en-us/azure/governance/policy/tutorials/create-and-manage
+  1. **Azure account options** https://docs.microsoft.com/en-us/learn/modules/tour-azure-services-and-features/3-create-an-azure-account
+  1. **Add or change Azure subscription administrators** https://docs.microsoft.com/en-us/azure/billing/billing-add-change-azure-subscription-administrator
+  1. **What is Azure Cost Management?** https://docs.microsoft.com/en-us/azure/cost-management/overview-cost-mgt
+  1. **How to optimize your cloud investment with Azure Cost Management** https://docs.microsoft.com/en-us/azure/cost-management/cost-mgt-best-practices
+  1. **Use tags to organize your Azure resources** https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-using-tags?toc=/azure/billing/TOC.json
+  1. **Azure subscription and service limits, quotas, and constraints** https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits
+  1. **What is Azure Policy?** https://docs.microsoft.com/en-us/azure/governance/policy/overview
+  1. **Create and manage policies to enforce compliance** https://docs.microsoft.com/en-us/azure/governance/policy/tutorials/create-and-manage
+  
 
 2. **Analyze resource utilization and consumption**
 
