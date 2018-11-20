@@ -25,8 +25,12 @@
   1. **Manage alert instances** https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-alerts-managing-alert-instances?toc=/azure/azure-monitor/toc.json
   1. **Azure Monitor Metrics Explorer** https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-metric-charts?toc=/azure/azure-monitor/toc.json
   1. **Create and manage action groups in the Azure portal** https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-action-groups?toc=/azure/azure-monitor/toc.json
+  1. **Monitoring usage and estimated costs** https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-usage-and-estimated-costs?toc=/azure/azure-monitor/toc.json
   1. **Collect and consume log data from your Azure resources** https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-overview-of-diagnostic-logs?toc=/azure/azure-monitor/toc.json
+  1. **Analyze data usage in Log Analytics** https://docs.microsoft.com/en-us/azure/log-analytics/log-analytics-usage?toc=/azure/azure-monitor/toc.json
+  1. **Get started with queries in Log Analytics** https://docs.microsoft.com/en-us/azure/log-analytics/query-language/get-started-queries?toc=/azure/azure-monitor/toc.json
   1. **Overview of the Azure agents to monitor Azure Virtual Machines** https://docs.microsoft.com/en-us/azure/monitoring/monitoring-overview-azure-agents?toc=/azure/azure-monitor/toc.json
+  1. **Respond to events with Azure Monitor Alerts** https://docs.microsoft.com/en-us/azure/log-analytics/log-analytics-tutorial-response
 
 ### 3. Manage resource groups
 
