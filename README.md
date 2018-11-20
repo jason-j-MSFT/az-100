@@ -20,6 +20,11 @@
 
 * May include but not limited to: Configure diagnostic settings on resources; create baseline for resources; create and test alerts; analyze alerts across subscription; analyze metrics across subscription; create action groups; monitor for unused resources; monitor spend; report on spend; utilize Log Search query functions; view alerts in Log Analytics
 
+  1. **What are Azure Monitor diagnostic logs** https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-overview-of-diagnostic-logs#what-are-azure-monitor-diagnostic-logs
+  1. **Create, view, and manage metric alerts using Azure Monitor** https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/alert-metric
+  1. **Manage alert instances** https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-alerts-managing-alert-instances?toc=/azure/azure-monitor/toc.json
+  1. **Azure Monitor Metrics Explorer** https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-metric-charts?toc=/azure/azure-monitor/toc.json
+  1. **Create and manage action groups in the Azure portal** https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-action-groups?toc=/azure/azure-monitor/toc.json
   1. **Collect and consume log data from your Azure resources** https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-overview-of-diagnostic-logs?toc=/azure/azure-monitor/toc.json
   1. **Overview of the Azure agents to monitor Azure Virtual Machines** https://docs.microsoft.com/en-us/azure/monitoring/monitoring-overview-azure-agents?toc=/azure/azure-monitor/toc.json
 
