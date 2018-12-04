@@ -48,19 +48,12 @@
 * May include but not limited to: Configure network access to the storage account; create and configure storage account; generate shared access signature; install and use Azure Storage Explorer; manage access keys; monitor activity log by using Log Analytics; implement Azure storage replication
 
   i.	**Configure network access to the storage account** https://docs.microsoft.com/en-us/azure/storage/common/storage-network-security 
-
   ii.	**Create and configure storage account** https://docs.microsoft.com/en-us/azure/storage/common/storage-quickstart-create-account?toc=%2Fazure%2Fstorage%2Fblobs%2Ftoc.json&tabs=portal
-
   iii.	**Generate shared access signature** https://docs.microsoft.com/en-us/azure/storage/common/storage-dotnet-shared-access-signature-part-1 
-
   iv.	**Install and use Azure Storage Explorer** https://docs.microsoft.com/en-us/azure/vs-azure-tools-storage-manage-with-storage-explorer?tabs=windows
-
   v.	**Manage access keys** https://docs.microsoft.com/en-us/azure/storage/common/storage-account-manage#access-keys
-
   vi.	**Monitor activity log by using Log Analytics** https://docs.microsoft.com/en-us/azure/azure-monitor/log-query/log-query-overview 
-
   vii.	**Implement Azure storage replication** https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy 
-
 
 ### 5. Import and export data to Azure
 
