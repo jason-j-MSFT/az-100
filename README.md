@@ -147,6 +147,19 @@
 
 * May include but not limited to: Add data discs; add network interfaces; automate configuration management by using PowerShell Desired State Configuration (DSC) and VM Agent by using custom script extensions; manage VM sizes; move VMs from one resource group to another; redeploy VMs
 
+  i.	**Add data discs** https://docs.microsoft.com/en-us/azure/virtual-machines/windows/attach-managed-disk-portal 
+  
+  ii.	**Add network interfaces** https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-network-interface-vm 
+  
+  iii. **Automate configuration management by using PowerShell Desired State Configuration (DSC) and VM Agent by using custom script extensions** https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/dsc-overview **and** https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/custom-script-windows 
+
+  iv.	**Manage VM sizes** https://docs.microsoft.com/en-us/azure/virtual-machines/windows/resize-vm
+  
+  v.	**Move VMs from one resource group to another** https://docs.microsoft.com/en-us/azure/virtual-machines/windows/move-vm 
+  
+  vi.	**Redeploy VMs** https://docs.microsoft.com/en-us/azure/virtual-machines/troubleshooting/redeploy-to-new-node-windows 
+
+
 ### 11. Manage VM backups
 
 * May include but not limited to: Configure VM backup; define backup policies; implement backup policies; perform VM restore
