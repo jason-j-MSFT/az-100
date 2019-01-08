@@ -76,7 +76,16 @@
 
 ### 6. Configure Azure files
 
-* May include but not limited to: Create Azure file share; create Azure File Sync service; create Azure sync group; troubleshoot Azure File Sync
+* May include but not limited to: Create Azure file share; create Azure File Sync service; create Azure sync group; troubleshoot Azure File Sync 
+
+  i.	**Create Azure file share** https://docs.microsoft.com/en-us/azure/storage/files/storage-how-to-create-file-share 
+  
+  ii.	**Create Azure File Sync service** https://docs.microsoft.com/en-us/azure/storage/files/storage-sync-files-deployment-guide?tabs=portal 
+  
+  iii.	**Create Azure sync group** https://docs.microsoft.com/en-us/azure/storage/files/storage-sync-files-deployment-guide?tabs=portal#create-a-sync-group-and-a-cloud-endpoint
+  
+  iv.	**Troubleshoot Azure File Sync** https://docs.microsoft.com/en-us/azure/storage/files/storage-sync-files-troubleshoot?tabs=portal1%2Cportal 
+
 
 ### 7. Implement Azure backup
 
