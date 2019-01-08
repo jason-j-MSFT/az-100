@@ -113,9 +113,13 @@
   ii.	**Configure monitoring, networking, storage, and virtual machine size**
   
     **Configure monitoring** https://docs.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-monitoring 
+    
     **Configure networking** https://docs.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-virtual-network
+    
     **Configure storage** https://docs.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-manage-data-disk 
+    
     **Configure virtual machine size** https://docs.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-manage-vm#understand-vm-sizes 
+    
   iii.	**Deploy and configure scale sets** https://docs.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-create-vmss 
 
 ### 9. Automate deployment of VMs
