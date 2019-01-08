@@ -64,6 +64,7 @@
 ### 5. Import and export data to Azure
 
 * May include but not limited to: Create export from Azure job; create import into Azure job; configure and use Azure blob storage; configure Azure content delivery network (CDN) endpoints
+
 i.	Create export from Azure job https://docs.microsoft.com/en-us/azure/storage/common/storage-import-export-data-from-blobs#step-1-create-an-export-job 
 
 ii.	Create import into Azure job https://docs.microsoft.com/en-us/azure/storage/common/storage-import-export-data-to-blobs#step-2-create-an-import-job 
