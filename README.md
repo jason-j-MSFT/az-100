@@ -65,13 +65,13 @@
 
 * May include but not limited to: Create export from Azure job; create import into Azure job; configure and use Azure blob storage; configure Azure content delivery network (CDN) endpoints
 
-i.	Create export from Azure job https://docs.microsoft.com/en-us/azure/storage/common/storage-import-export-data-from-blobs#step-1-create-an-export-job 
+  i.	**Create export from Azure job** https://docs.microsoft.com/en-us/azure/storage/common/storage-import-export-data-from-blobs#step-1-create-an-export-job 
 
-ii.	Create import into Azure job https://docs.microsoft.com/en-us/azure/storage/common/storage-import-export-data-to-blobs#step-2-create-an-import-job 
+  ii.	**Create import into Azure job** https://docs.microsoft.com/en-us/azure/storage/common/storage-import-export-data-to-blobs#step-2-create-an-import-job 
 
-iii.	Configure and use Azure blob storage https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-portal 
+  iii.	**Configure and use Azure blob storage** https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-portal 
 
-iv.	Configure Azure content delivery network (CDN) endpoints https://docs.microsoft.com/en-us/azure/cdn/cdn-create-new-endpoint 
+  iv.	**Configure Azure content delivery network (CDN) endpoints** https://docs.microsoft.com/en-us/azure/cdn/cdn-create-new-endpoint 
 
 
 ### 6. Configure Azure files
