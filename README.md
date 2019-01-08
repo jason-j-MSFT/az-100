@@ -126,6 +126,23 @@
 
 * May include but not limited to: Modify Azure Resource Manager (ARM) template; configure location of new VMs; configure VHD template; deploy from template; save a deployment as an ARM template; deploy Windows and Linux VMs
 
+  i.	**Modify Azure Resource Manager (ARM) template** https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-quickstart-create-templates-use-the-portal#edit-and-deploy-the-template
+  
+  ii.	**Configure location of new VMs** https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-quickstart-create-templates-use-the-portal#edit-and-deploy-the-template 
+  
+  iii.	**Configure VHD template** https://docs.microsoft.com/en-us/azure/marketplace/cloud-partner-portal/virtual-machine/cpp-deploy-json-template 
+  
+  iv.	**Deploy from template** https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-template-deploy 
+  
+  v.	**Save a deployment as an ARM template** https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-export-template#export-the-template-from-resource-group 
+  
+  vi.	**Deploy Windows and Linux VMs**
+  
+      **Windows VM using ARM template** https://docs.microsoft.com/en-us/azure/virtual-machines/windows/ps-template
+      
+      **Linux VM using ARM template** https://docs.microsoft.com/en-us/azure/virtual-machines/linux/create-ssh-secured-vm-from-template 
+
+
 ### 10. Manage Azure VM
 
 * May include but not limited to: Add data discs; add network interfaces; automate configuration management by using PowerShell Desired State Configuration (DSC) and VM Agent by using custom script extensions; manage VM sizes; move VMs from one resource group to another; redeploy VMs
