@@ -138,9 +138,9 @@
   
   vi.	**Deploy Windows and Linux VMs**
   
-      **Windows VM using ARM template** https://docs.microsoft.com/en-us/azure/virtual-machines/windows/ps-template
+     **Windows VM using ARM template** https://docs.microsoft.com/en-us/azure/virtual-machines/windows/ps-template
       
-      **Linux VM using ARM template** https://docs.microsoft.com/en-us/azure/virtual-machines/linux/create-ssh-secured-vm-from-template 
+     **Linux VM using ARM template** https://docs.microsoft.com/en-us/azure/virtual-machines/linux/create-ssh-secured-vm-from-template 
 
 
 ### 10. Manage Azure VM
