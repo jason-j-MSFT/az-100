@@ -91,6 +91,17 @@
 
 * May include but not limited to: Configure and review backup reports; perform backup operation; create Recovery Services Vault; create and configure backup policy; perform a restore operation
 
+  i.	**Configure and review backup reports** https://docs.microsoft.com/en-us/azure/backup/backup-azure-configure-reports 
+  
+  ii.	**Perform backup operation** https://docs.microsoft.com/en-us/azure/backup/quick-backup-vm-portal 
+  
+  iii.	**Create Recovery Services Vault** https://docs.microsoft.com/en-us/azure/backup/backup-azure-vms-first-look-arm#create-a-recovery-services-vault-for-a-vm 
+  
+  iv.	**Create and configure backup policy** https://docs.microsoft.com/en-us/azure/backup/backup-azure-vms-first-look-arm#defining-a-backup-policy 
+  
+  v.	**Perform a restore operation** https://docs.microsoft.com/en-us/azure/backup/backup-azure-arm-restore-vms 
+
+
 ## Deploy and manage virtual machines (VMs) (20-25%)
 
 ### 8. Create and configure a VM for Windows and Linux
