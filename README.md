@@ -164,6 +164,15 @@
 
 * May include but not limited to: Configure VM backup; define backup policies; implement backup policies; perform VM restore
 
+  i.	**Configure VM backup** https://docs.microsoft.com/en-us/azure/backup/backup-azure-vms-first-look-arm 
+  
+  ii.	**Define backup policies** https://docs.microsoft.com/en-us/azure/backup/backup-azure-vms-first-look-arm#defining-a-backup-policy 
+  
+  iii.	**Implement backup policies** https://docs.microsoft.com/en-us/azure/backup/backup-azure-vms-first-look-arm#initial-backup 
+  
+  iv.	**Perform VM restore** https://docs.microsoft.com/en-us/azure/backup/backup-azure-arm-restore-vms 
+
+
 ## Configure and manage virtual networks (20-25%)
 
 ### 12. Create connectivity between virtual networks
